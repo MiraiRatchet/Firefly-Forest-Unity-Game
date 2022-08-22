@@ -1,4 +1,5 @@
 # Firefly Forest
+Collaboration with [GoshaSerbin](https://github.com/GoshaSerbin).
 Unity game, written on C#. [Submission for ZenoJam-The perfect jam for beginners](https://laplas-games-inc.itch.io/firefly-forest "Firefly Forest on itch.io").
 
 ## Description
